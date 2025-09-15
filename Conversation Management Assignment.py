@@ -10,7 +10,7 @@ import sqlite3
 
 # API Key
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_JSv4EVniixnlgxAVETzxWGdyb3FYiJ9NmeofeuOQYfLBi1St5"
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 GROQ_MODEL = "llama-3.1-8b-instant"
@@ -281,3 +281,4 @@ if __name__ == "__main__":
         save_to_db(norm)
 
     print("\n Data Saved Into Conversations.db (Table: Users)")
+
