@@ -48,4 +48,10 @@ It validates handling dynamic chat interactions, generating concise summaries, t
 ### Prerequisites  
 - Python  
 - Internet connection for API requests  
-- Groq API key with access to the OpenAI compatible endpoint  
+- Groq API key with access to the OpenAI compatible endpoint
+  
+## 🚀 Installation & Running
+1. Clone the repository
+2. Install dependencies: `pip install requests`
+3. Add your Groq API key in the notebook
+4. Run the Colab notebook or Python script
