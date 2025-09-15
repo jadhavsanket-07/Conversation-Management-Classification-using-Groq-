@@ -49,7 +49,3 @@ It validates handling dynamic chat interactions, generating concise summaries, t
 - Python 3.x environment (tested with standard built-in libraries)  
 - Internet connection for API requests  
 - Groq API key with access to the OpenAI-compatible endpoint  
-
-### Setup Instructions  
-
-1. **Clone the repository**  
